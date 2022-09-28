@@ -1,0 +1,8 @@
+D:\WebDevelopment\question1\q1\bin\Debug\q1.exe.config
+D:\WebDevelopment\question1\q1\bin\Debug\q1.exe
+D:\WebDevelopment\question1\q1\bin\Debug\q1.pdb
+D:\WebDevelopment\question1\q1\obj\Debug\q1.csproj.AssemblyReference.cache
+D:\WebDevelopment\question1\q1\obj\Debug\q1.csproj.SuggestedBindingRedirects.cache
+D:\WebDevelopment\question1\q1\obj\Debug\q1.csproj.CoreCompileInputs.cache
+D:\WebDevelopment\question1\q1\obj\Debug\q1.exe
+D:\WebDevelopment\question1\q1\obj\Debug\q1.pdb
